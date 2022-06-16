@@ -19,6 +19,11 @@ Women are an underrepresented group in the STEM field. We aim at giving the wome
 
 3. <b>Experiences & Understanding</b> - Provides insights about the real life experiences and problems faced by women in various parts of the country and also includes the solutions and measures taken by those women to deal with the problems. This will lead to women safety because they can follow the same steps as the other women did in their case. It also acts as a source of inspiration for other women in dealing with real life problems.
 
+## Video Demonstration -
+
+The video demonstration of the application is uploaded to Microsoft Stream [here](https://web.microsoftstream.com/video/5edb7952-6f7a-4a1a-ab21-1c03a1ec88b1)
+and also to Microsoft One Drive [here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/bhaswati_roy_studentambassadors_com/EUDOFtn69ZNLmxIQ6h26k3MBMGQwH7w4OytKwMwxGnV0ww?e=nrmKug)
+
 ## Tech Stack Used -
 
 <img src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%2314354C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft azure%20-%2314354C.svg?&style=for-the-badge&logo=microsoft azure&logoColor=white"/> 
