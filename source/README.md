@@ -9,4 +9,4 @@
 7. In the Job Updates & Details For Women Section some cards are present to update women about recent job opening with Job Posters posting their job position, company name, hiring member name, stipend, contact details posted so that job seekres can directly contact them for further details.
 8. In the Experiences & Understandings Section another set of cards are present to showcase real life experiences and problems faced by other women in various parts of the country and also includes the solutions and measures taken by those women to deal with the problems.
 9. It also contains an FAQ & Contact Section
-10. Finally the application is deployed on Microsoft Azure. See the deployed application [here](https://thankful-sky-02affa000.1.azurestaticapps.net/).
+10. Finally the application is deployed on Microsoft Azure using VS Code & Git-GitHub. See the deployed application [here](https://thankful-sky-02affa000.1.azurestaticapps.net/).
